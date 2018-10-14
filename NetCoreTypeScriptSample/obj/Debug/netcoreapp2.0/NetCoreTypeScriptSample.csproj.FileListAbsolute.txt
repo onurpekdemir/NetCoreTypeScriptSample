@@ -1,0 +1,11 @@
+C:\Users\Onur\source\repos\NetCoreTypeScriptSample\NetCoreTypeScriptSample\bin\Debug\netcoreapp2.0\NetCoreTypeScriptSample.deps.json
+C:\Users\Onur\source\repos\NetCoreTypeScriptSample\NetCoreTypeScriptSample\bin\Debug\netcoreapp2.0\NetCoreTypeScriptSample.runtimeconfig.json
+C:\Users\Onur\source\repos\NetCoreTypeScriptSample\NetCoreTypeScriptSample\bin\Debug\netcoreapp2.0\NetCoreTypeScriptSample.runtimeconfig.dev.json
+C:\Users\Onur\source\repos\NetCoreTypeScriptSample\NetCoreTypeScriptSample\bin\Debug\netcoreapp2.0\NetCoreTypeScriptSample.dll
+C:\Users\Onur\source\repos\NetCoreTypeScriptSample\NetCoreTypeScriptSample\bin\Debug\netcoreapp2.0\NetCoreTypeScriptSample.pdb
+C:\Users\Onur\source\repos\NetCoreTypeScriptSample\NetCoreTypeScriptSample\obj\Debug\netcoreapp2.0\NetCoreTypeScriptSample.csproj.CoreCompileInputs.cache
+C:\Users\Onur\source\repos\NetCoreTypeScriptSample\NetCoreTypeScriptSample\obj\Debug\netcoreapp2.0\NetCoreTypeScriptSample.AssemblyInfoInputs.cache
+C:\Users\Onur\source\repos\NetCoreTypeScriptSample\NetCoreTypeScriptSample\obj\Debug\netcoreapp2.0\NetCoreTypeScriptSample.AssemblyInfo.cs
+C:\Users\Onur\source\repos\NetCoreTypeScriptSample\NetCoreTypeScriptSample\obj\Debug\netcoreapp2.0\NetCoreTypeScriptSample.dll
+C:\Users\Onur\source\repos\NetCoreTypeScriptSample\NetCoreTypeScriptSample\obj\Debug\netcoreapp2.0\NetCoreTypeScriptSample.pdb
+C:\Users\Onur\source\repos\NetCoreTypeScriptSample\NetCoreTypeScriptSample\obj\Debug\netcoreapp2.0\NetCoreTypeScriptSample.csprojAssemblyReference.cache

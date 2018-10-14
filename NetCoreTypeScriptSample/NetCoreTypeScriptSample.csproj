@@ -1,0 +1,59 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <TypeScriptToolsVersion>2.8</TypeScriptToolsVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Client\**" />
+    <Content Remove="Client\**" />
+    <EmbeddedResource Remove="Client\**" />
+    <None Remove="Client\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="app.tsx" />
+    <None Remove="src\components\dropdown.tsx" />
+    <None Remove="src\components\form.tsx" />
+    <None Remove="src\components\image.tsx" />
+    <None Remove="src\components\input.tsx" />
+    <None Remove="src\components\list.tsx" />
+    <None Remove="src\components\listItem.tsx" />
+    <None Remove="src\inputProps.ts" />
+    <None Remove="src\sample.tsx" />
+    <None Remove="src\utils\dropdownProps.ts" />
+    <None Remove="src\utils\enums\inputSize.ts" />
+    <None Remove="src\utils\inputEnums.ts" />
+    <None Remove="webpack.config.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="webpack.config.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.9" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <TypeScriptCompile Include="src\components\app.tsx" />
+    <TypeScriptCompile Include="src\components\dropdown.tsx" />
+    <TypeScriptCompile Include="src\components\form.tsx" />
+    <TypeScriptCompile Include="src\components\image.tsx" />
+    <TypeScriptCompile Include="src\components\input.tsx" />
+    <TypeScriptCompile Include="src\components\list.tsx" />
+    <TypeScriptCompile Include="src\components\listItem.tsx" />
+    <TypeScriptCompile Include="src\sample.tsx" />
+    <TypeScriptCompile Include="src\utils\dropdownProps.ts" />
+    <TypeScriptCompile Include="src\utils\enums\inputType.ts" />
+    <TypeScriptCompile Include="src\utils\enums\inputSize.ts" />
+    <TypeScriptCompile Include="src\utils\inputProps.ts" />
+  </ItemGroup>
+
+</Project>
